@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Proper::VERSION
   spec.authors       = ["TJ Stankus"]
   spec.email         = ["tj@stank.us"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Pull request operations}
+  spec.summary       = %q{Pull request operations}
+  spec.homepage      = "https://github.com/tjstankus/proper"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
